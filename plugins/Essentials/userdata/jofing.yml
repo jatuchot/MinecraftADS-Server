@@ -1,0 +1,22 @@
+geolocation: N/A
+timestamps:
+  login: 1381144981710
+  lastteleport: 1381145068190
+  logout: 1381145084983
+ipAddress: 192.168.11.2
+lastlocation:
+  world: world
+  x: -671.7446302184857
+  y: 65.5
+  z: 632.6999999880791
+  yaw: 79.043304
+  pitch: 15.449983
+logoutlocation:
+  world: world
+  x: -666.3789861259943
+  y: 63.5
+  z: 633.7918428174831
+  yaw: 91.65204
+  pitch: -9.600023
+money: '0.0'
+afk: false

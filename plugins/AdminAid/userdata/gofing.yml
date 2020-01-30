@@ -1,0 +1,13 @@
+BanExempt: false
+MuteExempt: false
+KickExempt: false
+StaffMember: false
+ChatSpy: false
+IPAddress: Zobiic-PC
+NewMail: []
+ReadMail: []
+Location:
+  X: -673
+  Y: 65
+  Z: 633
+  World: world

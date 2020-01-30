@@ -1,0 +1,13 @@
+BanExempt: true
+MuteExempt: true
+KickExempt: true
+StaffMember: true
+ChatSpy: false
+IPAddress: node-k7f.pool-125-25.dynamic.totbb.net
+NewMail: []
+ReadMail: []
+Location:
+  X: 363
+  Y: 91
+  Z: 2
+  World: land2

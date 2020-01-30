@@ -1,0 +1,13 @@
+x: -675.3879754762895
+y: 66.0
+z: 633.4560231214317
+pitch: 87.89999
+yaw: -272.19617
+world: world
+lobby_message: '&2Lobbys You Have Teleported To The Lobby'
+nosetlobbyperm_message: '&4You Do Not Have Permission To Set A Lobby'
+nouselobbyperm_message: '&4You Do Not Have Permission To Go To The Lobby'
+nosigncreateperm_message: '&4You Do Not Have Permission To Make A Lobby Sign'
+nosignuseperm_message: '&4You Do Not Have Permission To Use The Lobby Signs'
+signprotection: false
+nosignbreakperm_message: '&4You Do Not Have Permission To Break This Sign'

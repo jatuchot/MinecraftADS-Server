@@ -1,0 +1,17 @@
+Settings-Version: 0.4.6
+ServerSettings:
+  enable: true
+  enableAutoUpdate: true
+  autoUpdateInterval: 1800
+  enablePlayerSettings: true
+  enableAutomaticChestProtection: true
+  adminsIgnoreProtection: false
+  cascadeProtectionCommands: false
+  MySQL:
+    enable: false
+    type: local
+    host: localhost
+    port: 3306
+    database: blockown
+    user: foo
+    password: bar

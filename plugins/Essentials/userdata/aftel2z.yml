@@ -1,0 +1,24 @@
+geolocation: Thailand
+timestamps:
+  login: 1381137072421
+  logout: 1381142729590
+  lastteleport: 1381123747569
+ipAddress: 115.87.135.158
+logoutlocation:
+  world: land2
+  x: 374.5560589701667
+  y: 98.0
+  z: 18.587490410526062
+  yaw: 294.8798
+  pitch: 25.949987
+lastlocation:
+  world: world
+  x: -675.3789982169563
+  y: 66.0
+  z: 633.5539745771424
+  yaw: -102.846375
+  pitch: 68.549934
+money: '100000.0'
+afk: false
+godmode: true
+socialspy: true

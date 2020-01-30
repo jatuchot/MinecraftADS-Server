@@ -1,0 +1,11 @@
+string:
+  normal: {}
+  private: {}
+  up: {}
+  down: {}
+  message:
+    lift: {}
+    create: {}
+    destroy: {}
+check:
+  destination: {}

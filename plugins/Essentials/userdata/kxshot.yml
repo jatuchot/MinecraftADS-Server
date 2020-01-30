@@ -1,0 +1,21 @@
+timestamps:
+  login: 1381138342488
+  lastteleport: 1381117655522
+  logout: 1381138483382
+ipAddress: 125.25.102.75
+geolocation: Thailand
+lastlocation:
+  world: world
+  x: -615.0
+  y: 63.0
+  z: 634.0
+  yaw: 0.0
+  pitch: 0.0
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -614.2278282008501
+  y: 63.0
+  z: 600.2201160393618
+  yaw: -257.39847
+  pitch: 24.749931

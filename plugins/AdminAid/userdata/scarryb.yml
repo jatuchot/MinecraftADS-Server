@@ -1,0 +1,13 @@
+BanExempt: true
+MuteExempt: true
+KickExempt: true
+StaffMember: true
+ChatSpy: false
+IPAddress: 14.207.48.41
+NewMail: []
+ReadMail: []
+Location:
+  X: 395
+  Y: 80
+  Z: 34
+  World: land2

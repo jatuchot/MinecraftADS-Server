@@ -1,0 +1,24 @@
+geolocation: Thailand
+timestamps:
+  login: 1381139432812
+  logout: 1381139426375
+  jail: 0
+  lastteleport: 1381136542956
+ipAddress: 58.9.228.144
+lastlocation:
+  world: fuckingworld
+  x: -11.379681752552456
+  y: 67.0
+  z: 30.38479212405028
+  yaw: -61.199986
+  pitch: 9.749987
+logoutlocation:
+  world: land2
+  x: 364.4641444026991
+  y: 104.45679339386852
+  z: 18.291623224794073
+  yaw: 100.254395
+  pitch: 29.55005
+money: '0.0'
+jailed: false
+afk: true

@@ -1,0 +1,49 @@
+DeafultSettings:
+  ForceRegister: 'true'
+Messages:
+  FirstJoin: This server uses a logon protection so other users can't use your account. Please register with /register
+  FirstJoinUnforced: This server uses a logon protection so other users can't use your account. You can register using /register but it isn't necesarry.
+  LaterJoin: Please unlock using /unlock
+  AfterRegistering: none
+  AfterUnlock: none
+Players:
+  testing:
+    password: test
+  ZobiicB:
+    password: Bossmhuhun1519
+  aftel2z:
+    password: '120037850'
+  Settler:
+    password: '1234'
+  ZjayZobiic:
+    password: '1234'
+  suebsarn2:
+    password: '1234'
+  /Supak22:
+    password: '222222'
+  ScarryB:
+    password: 777sakura
+  '99900':
+    password: '12345678'
+  jofing:
+    password: Bossmhuhun1519
+  gofing:
+    password: '5554764'
+  kxshot:
+    password: '12345'
+  poly_windy:
+    password: PorHui401
+  gun:
+    password: gunhjklza
+  keroro1011:
+    password: '987321654'
+Specials:
+  Firework:
+    Enabled: 'false'
+  Location:
+    Enabled: 'false'
+    Location:
+      World: world
+      x: 0
+      y: 0
+      z: 0

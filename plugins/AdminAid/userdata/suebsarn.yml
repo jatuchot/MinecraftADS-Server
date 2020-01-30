@@ -1,0 +1,13 @@
+BanExempt: false
+MuteExempt: false
+KickExempt: false
+StaffMember: false
+ChatSpy: false
+IPAddress: 14.207.76.157
+NewMail: []
+ReadMail: []
+Location:
+  X: -622
+  Y: 65
+  Z: 634
+  World: world

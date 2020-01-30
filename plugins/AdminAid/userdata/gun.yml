@@ -1,0 +1,13 @@
+BanExempt: true
+MuteExempt: true
+KickExempt: true
+StaffMember: true
+ChatSpy: false
+IPAddress: ppp-124-120-225-139.revip2.asianet.co.th
+NewMail: []
+ReadMail: []
+Location:
+  X: 394
+  Y: 84
+  Z: -3
+  World: land2

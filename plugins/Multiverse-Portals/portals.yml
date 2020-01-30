@@ -1,0 +1,160 @@
+portals:
+  land1:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: aftel2z
+    location: -28.0,74.0,267.0:-28.0,75.0,267.0
+    world: land1
+    destination: world
+  pworld1:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: aftel2z
+    location: -607.0,64.0,630.0:-607.0,65.0,630.0
+    world: world
+    destination: p:pland1
+  pland1:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: aftel2z
+    location: 44.0,76.0,207.0:44.0,77.0,207.0
+    world: land1
+    destination: p:pworld1
+  pworld2:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: aftel2z
+    location: -607.0,64.0,633.0:-607.0,65.0,633.0
+    world: world
+    destination: p:pland2
+  pland2:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: aftel2z
+    location: 306.0,72.0,-13.0:306.0,73.0,-13.0
+    world: land2
+    destination: p:pworld2
+  world3:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: aftel2z
+    location: -607.0,64.0,636.0:-607.0,65.0,636.0
+    world: world
+    destination: p:land3
+  land3:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: aftel2z
+    location: 89.0,70.0,-33.0:89.0,71.0,-33.0
+    world: land3
+    destination: p:world3
+  world4:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: aftel2z
+    location: -607.0,64.0,639.0:-607.0,65.0,639.0
+    world: world
+    destination: p:land4
+  land4:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: aftel2z
+    location: -228.0,73.0,245.0:-228.0,74.0,245.0
+    world: land4
+    destination: p:world4
+  world5:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: aftel2z
+    location: -610.0,64.0,631.0:-610.0,65.0,631.0
+    world: world
+    destination: p:land5
+  land5:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: aftel2z
+    location: -70.0,75.0,230.0:-70.0,76.0,230.0
+    world: land5
+    destination: p:world5
+  world6:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: aftel2z
+    location: -610.0,64.0,634.0:-610.0,65.0,634.0
+    world: world
+    destination: p:land6
+  world7:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: aftel2z
+    location: -610.0,64.0,637.0:-610.0,65.0,637.0
+    world: world
+    destination: p:land7
+  land6:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: aftel2z
+    location: -131.0,73.0,275.0:-131.0,74.0,275.0
+    world: land6
+    destination: p:world6
+  land7:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: aftel2z
+    location: 245.0,67.0,-71.0:245.0,67.0,-71.0
+    world: land7
+    destination: p:world7
+  jail:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: jofing
+    location: -679.0,64.0,583.0:-673.0,64.0,583.0
+    world: world
